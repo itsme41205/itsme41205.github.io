@@ -1845,7 +1845,7 @@ body {
 .cid-rdYMjc6IUX table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #ffffff;
+  border: 1px solid #f7ed4a;
   margin-bottom: 0;
 }
 .cid-rdYMjc6IUX table th {
@@ -1854,11 +1854,11 @@ body {
   border-bottom: none;
 }
 .cid-rdYMjc6IUX table th:hover {
-  background: #ffffff;
+  background: #f7ed4a;
   color: #000000;
 }
 .cid-rdYMjc6IUX table td {
-  border-top: 1px solid #ffffff;
+  border-top: 1px solid #f7ed4a;
 }
 .cid-rdYMjc6IUX .dataTables_filter {
   text-align: right;
